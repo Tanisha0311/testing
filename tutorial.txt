@@ -2,3 +2,7 @@ This is the first line.
 
 
 //switching between dev to master and master to dev
+
+after publishing my branch in github.
+
+trying in terminal
